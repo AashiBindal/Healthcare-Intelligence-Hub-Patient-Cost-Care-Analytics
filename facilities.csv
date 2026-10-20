@@ -1,0 +1,11 @@
+facility_id,facility_name,city,facility_type
+F001,Central City Hospital,Hyderabad,Clinic
+F002,Green Valley Medical Center,Bengaluru,Hospital
+F003,Sunrise Hospital,Chennai,Specialty Center
+F004,Metro Care Hospital,Mumbai,Clinic
+F005,Apollo View Clinic,Delhi,Hospital
+F006,Wellness Medical Center,Pune,Clinic
+F007,City General Hospital,Kolkata,Specialty Center
+F008,Prime Health Center,Ahmedabad,Specialty Center
+F009,Hope Hospital,Jaipur,Clinic
+F010,LifeCare Medical Center,Kochi,Hospital

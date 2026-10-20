@@ -1,0 +1,16 @@
+diagnosis_id,diagnosis_name,diagnosis_category
+DIA001,Hypertension,Cardiovascular
+DIA002,Diabetes,Endocrine
+DIA003,Asthma,Respiratory
+DIA004,Migraine,Neurological
+DIA005,Arthritis,Musculoskeletal
+DIA006,Pneumonia,Respiratory
+DIA007,Heart Disease,Cardiovascular
+DIA008,Gastritis,Digestive
+DIA009,Skin Infection,Dermatology
+DIA010,Fracture,Musculoskeletal
+DIA011,Anemia,Blood
+DIA012,Thyroid Disorder,Endocrine
+DIA013,Kidney Disease,Renal
+DIA014,Depression,Mental Health
+DIA015,Back Pain,Musculoskeletal

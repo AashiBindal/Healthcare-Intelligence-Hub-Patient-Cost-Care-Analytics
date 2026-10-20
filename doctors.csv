@@ -1,0 +1,61 @@
+doctor_id,doctor_name,specialty,experience_years,department
+D001,Dr. Ishita Sharma,Neurology,15,Outpatient
+D002,Dr. Neha Brown,Gynecology,4,Outpatient
+D003,Dr. Sneha Taylor,ENT,14,Emergency
+D004,Dr. Rohan Gupta,General Medicine,3,Emergency
+D005,Dr. Vihaan Nair,Gynecology,18,Specialty Care
+D006,Dr. Diya Rao,Orthopedics,22,Outpatient
+D007,Dr. Rohan Iyer,Gastroenterology,4,Inpatient
+D008,Dr. Aditya Reddy,Pediatrics,27,Inpatient
+D009,Dr. Emma Verma,Orthopedics,16,Specialty Care
+D010,Dr. Rohan Smith,Oncology,9,Specialty Care
+D011,Dr. Aditya Singh,ENT,7,Specialty Care
+D012,Dr. Vihaan Taylor,Oncology,27,Outpatient
+D013,Dr. David Gupta,Cardiology,10,Emergency
+D014,Dr. David Rao,Cardiology,26,Emergency
+D015,Dr. Arjun Johnson,Dermatology,12,Specialty Care
+D016,Dr. David Sharma,ENT,23,Outpatient
+D017,Dr. Vihaan Kumar,Gynecology,3,Inpatient
+D018,Dr. Ananya Reddy,Orthopedics,10,Specialty Care
+D019,Dr. Rohan Reddy,ENT,19,Outpatient
+D020,Dr. Ananya Reddy,Orthopedics,20,Specialty Care
+D021,Dr. Olivia Iyer,Pediatrics,23,Outpatient
+D022,Dr. Arjun Wilson,Gynecology,19,Outpatient
+D023,Dr. Rahul Iyer,Oncology,6,Specialty Care
+D024,Dr. Ananya Rao,Orthopedics,19,Emergency
+D025,Dr. Aisha Smith,Pediatrics,13,Specialty Care
+D026,Dr. Olivia Smith,ENT,5,Emergency
+D027,Dr. Meera Kumar,Pediatrics,16,Emergency
+D028,Dr. Arjun Reddy,Gastroenterology,12,Inpatient
+D029,Dr. Neha Nair,Pediatrics,28,Outpatient
+D030,Dr. Rohan Iyer,Pediatrics,20,Specialty Care
+D031,Dr. David Reddy,Dermatology,6,Outpatient
+D032,Dr. Aarav Rao,Cardiology,7,Inpatient
+D033,Dr. Aarav Sharma,Oncology,14,Emergency
+D034,Dr. Olivia Singh,Gastroenterology,24,Specialty Care
+D035,Dr. Priya Reddy,Gastroenterology,11,Outpatient
+D036,Dr. Kavya Johnson,Cardiology,25,Inpatient
+D037,Dr. John Sharma,General Medicine,26,Emergency
+D038,Dr. Diya Nair,Orthopedics,15,Emergency
+D039,Dr. Priya Reddy,Pediatrics,5,Outpatient
+D040,Dr. Ishita Iyer,ENT,21,Emergency
+D041,Dr. Vihaan Patel,Pediatrics,24,Inpatient
+D042,Dr. Vihaan Verma,ENT,13,Emergency
+D043,Dr. Kavya Verma,Pediatrics,16,Specialty Care
+D044,Dr. Olivia Johnson,Gastroenterology,27,Specialty Care
+D045,Dr. Aisha Patel,General Medicine,11,Outpatient
+D046,Dr. Kavya Reddy,Cardiology,12,Inpatient
+D047,Dr. David Reddy,Gynecology,10,Emergency
+D048,Dr. Meera Johnson,Neurology,12,Emergency
+D049,Dr. Rahul Smith,Oncology,3,Emergency
+D050,Dr. Rohan Iyer,Gynecology,14,Specialty Care
+D051,Dr. Meera Singh,Oncology,28,Inpatient
+D052,Dr. Priya Kumar,Orthopedics,23,Emergency
+D053,Dr. Ishita Johnson,Cardiology,27,Outpatient
+D054,Dr. Priya Smith,ENT,27,Inpatient
+D055,Dr. Neha Singh,Gynecology,9,Inpatient
+D056,Dr. Aarav Singh,Gynecology,30,Emergency
+D057,Dr. David Taylor,Oncology,22,Specialty Care
+D058,Dr. Rahul Singh,Gynecology,22,Inpatient
+D059,Dr. Emma Brown,ENT,9,Outpatient
+D060,Dr. Rohan Singh,Cardiology,2,Inpatient
