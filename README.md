@@ -179,7 +179,7 @@ CURATED    DIM_* tables + FACT_PATIENT_VISITS (denormalized fact)
 
 ## 13. Demo and Documentation
 
-- Demo video: _link to be added_
+- Demo video: _https://drive.google.com/file/d/1iWmpHQylgtj5ohMAXwC3ywh_9WzJQRRL/view?usp=sharing_
 - Step-by-step development documentation: _link to be added_
 
 ## 14. Author
